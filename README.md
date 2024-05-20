@@ -9,6 +9,6 @@ Download Options: Users have the flexibility to specify download options such as
 Responsive Design: The web application is designed with responsiveness in mind, ensuring seamless usability across various devices and screen sizes.
 Credits:
 
-Lead Developer URL: [[URL]](https://chatgptlogindeutsch.de/)
+Lead Developer: [[ChatGPT]](https://chatgptlogindeutsch.de/)
 GitHub Repository: https://github.com/calculatordelusion/slide/
 The project aims to streamline the process of accessing SlideShare presentations offline, catering to users who prefer to review content without relying on an internet connection. With its simple yet effective interface and robust functionality, SlideShare Downloader enhances user convenience and accessibility in downloading and storing valuable presentation materials.
